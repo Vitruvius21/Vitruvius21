@@ -2,7 +2,7 @@
 
 ## Hi there 👋, welcome on my GitHub!
 
-##### I am Giorgi Balakhadze, GIS Specialist and beginner Web Developer.
+#### I am Giorgi Balakhadze, GIS Specialist and beginner Web Developer.
 
 - 🔭 I’m currently working on [MyGeorgia Online Map](mygeorgia.ge).
 - 🌱 I’m currently learning Front End Web Development.
