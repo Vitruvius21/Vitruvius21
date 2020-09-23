@@ -4,7 +4,7 @@
 
 #### I am Giorgi Balakhadze, GIS Specialist and beginner Web Developer.
 
-- 🔭 I’m currently working on [MyGeorgia Online Map](http://mygeorgia.ge).
+- 🔭 I’m currently working on [MyGeorgia Online Map](http://www.mygeorgia.ge).
 - 🌱 I’m currently learning Front End Web Development.
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
