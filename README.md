@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on [MyGeorgia Online Map](http://www.mygeorgia.ge).
 - 🌱 I’m currently learning Front End Web Development.
+- ⭐ For more information visit my [LinkedIn](https://www.linkedin.com/in/balakhadze/).
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
 <div style="display:flex">
