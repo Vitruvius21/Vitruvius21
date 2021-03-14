@@ -12,16 +12,17 @@
 ## My Skill Set  
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR1e1gW5WOuIB-aprnVDstO26oBDuYv6aZ3ob_0xeWUY0zggZbL1zOm4oFAskills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
 </div>
 
 <br/>  
