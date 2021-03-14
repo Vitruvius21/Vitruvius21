@@ -9,7 +9,7 @@
 - ⭐ For more information visit my [LinkedIn](https://www.linkedin.com/in/balakhadze/).
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
-## My Skill Set  
+## Skills  
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
@@ -26,6 +26,8 @@
 </div>
 
 <br/>  
+
+## Statistics
 
 <div style="display:flex">
 <a>
