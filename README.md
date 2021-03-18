@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Front End Web Development (Markup, JS, TS & Angular).
 - 🔭 In GIS recently finished project [MyGeorgia Online Map](http://www.mygeorgia.ge).
-- <img style="margin: 10px" src="https://icanhazdadjoke.com/static/smile.svg" height="20" /> For more information visit my [LinkedIn](https://www.linkedin.com/in/balakhadze/).
+- <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/718smiley.svg" height="25" /> For more information visit my [LinkedIn](https://www.linkedin.com/in/balakhadze/).
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
 ## Skills  
