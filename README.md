@@ -30,10 +30,15 @@
 ## Statistics
 
 <div style="display:flex">
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitruvius21" />
-</a>
-<a>
-  <img align="center" height="205px" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&show_icons=true&include_all_commits=true" />
-</a>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitruvius21&theme=dark" />
+</div>
+  
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
+</div>
 </div>
