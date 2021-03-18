@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Front End Web Development (Markup, JS, TS & Angular).
 - 🔭 In GIS recently finished project [MyGeorgia Online Map](http://www.mygeorgia.ge).
-- <img style="margin-top: 30px" src="https://icanhazdadjoke.com/static/smile.svg" height="20" />   For more information visit my [LinkedIn](https://www.linkedin.com/in/balakhadze/).
+- <div style="display:flex; margin:50px"><img src="https://icanhazdadjoke.com/static/smile.svg" height="20" /></div>  For more information visit my [LinkedIn](https://www.linkedin.com/in/balakhadze/).
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
 ## Skills  
@@ -21,7 +21,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+<img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
 </div>
 
