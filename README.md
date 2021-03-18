@@ -35,10 +35,10 @@
 </div>
   
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukeSamkharadze&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeSamkharadze&theme=dark">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
 </div>
 </div>
