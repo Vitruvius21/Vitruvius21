@@ -29,16 +29,31 @@
 
 ## Statistics
 
-<div style="display:flex">
-<!-- <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitruvius21&theme=dark" />
-</div> -->
+<table>
+<tbody>
+<tr>
   
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+</td>
+  
+<td>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
+</td>
+  
+</tbody>
+</table>
+
+<!-- 
+<div style="display:flex">
+ <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitruvius21&theme=dark" />
+</div> 
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
 </div>
-
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
 </div>
-</div>
+</div> 
+-->
