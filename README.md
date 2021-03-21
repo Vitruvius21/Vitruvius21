@@ -29,15 +29,10 @@
 
 ## Statistics
 
-
-<div display="flex" margin="0 auto">
-  
-<img width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
-  
-<img width="48%" alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
-  
+<div display="flex">
+<img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+<img width="50%" alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
 </div>
-
 
 <!-- 
 <div style="display:flex">
