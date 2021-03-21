@@ -25,8 +25,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
 </div>
 
-<br/>  
-
 ## Statistics
 
 <div align="center">  
