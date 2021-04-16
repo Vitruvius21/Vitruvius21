@@ -2,10 +2,9 @@
 
 ## Hi there 👋, welcome on my GitHub!
 
-#### I am Giorgi Balakhadze, Junior Web Developer and GIS Specialist.
+#### I am Giorgi Balakhadze, Web Developer and GIS Specialist.
 
-- 🌱 I’m currently learning Front End Web Development (Markup, JS, TS & Angular).
-- 🔭 In GIS recently finished project [MyGeorgia Online Map](http://www.mygeorgia.ge).
+- 🌱 Currently, I'm actively deepening my knowledge in Front End Web Development (Markup, JS, TS & Angular).
 - :sunglasses: For more information visit my [LinkedIn](https://www.linkedin.com/in/balakhadze/).
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
