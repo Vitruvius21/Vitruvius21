@@ -1,4 +1,4 @@
-![Follow](https://img.shields.io/github/followers/Vitruvius21?label=Follow&style=social)
+![Follow](https://img.shields.io/github/followers/Vitruvius21?label=Follow&style=social) <img src="https://komarev.com/ghpvc/?username=vitruvius21&label=Profile%20views&color=0e75b6&style=flat" alt="vitruvius21" />
 
 ## Hi there 👋, welcome on my GitHub!
 
