@@ -5,7 +5,6 @@
 #### I am Giorgi Balakhadze, Web Developer and GIS Specialist.
 
 - 🌱 Currently, I'm actively deepening my knowledge in Front End Web Development (Markup, JS, TS & Angular).
-- :sunglasses: For more information visit my [LinkedIn](https://www.linkedin.com/in/balakhadze/).
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
 ## Skills  
