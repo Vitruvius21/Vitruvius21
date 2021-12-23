@@ -9,59 +9,58 @@
 
 ## Skills  
 
-<div style="display:flex">
-
-   <div align="center" width="96">
+<table align="center" style="border: none">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   <td align="center" width="96">
       <a href="#">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50" alt="HTML" />
       </a>
       <br>HTML
-    </div>
-    
-   <div align="center" width="96">
+    </td>
+   <td align="center" width="96">
       <a href="#">
         <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50" height="50" alt="CSS" />
       </a>
       <br>CSS
-    </div>
-    
-   <div align="center" width="96">
+    </td>
+   <td align="center" width="96">
       <a href="#">
         <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
       </a>
       <br>SASS
-    </div>
-    
-   <div align="center" width="96">
+    </td>
+   <td align="center" width="96">
       <a href="#">
         <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </div>
-    
-   <div align="center" width="96">
+    </td>
+   <td align="center" width="96">
       <a href="#">
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </div>
-    
-   <div align="center" width="96">
+    </td>
+   <td align="center" width="96">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Angular" />
       </a>
       <br>Angular
-    </div>
-    
-   <div align="center" width="96">
+    </td>
+   <td align="center" width="96">
       <a href="#">
         <img src="https://coollogo.net/wp-content/uploads/2021/02/Firebase-logo.svg" width="50" height="50" alt="Firebase" />
       </a>
       <br>Firebase
-    </div>
-    
-
-</div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
