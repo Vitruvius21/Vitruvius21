@@ -59,6 +59,12 @@
       </a>
       <br>Firebase
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://image.pngaaa.com/160/4144160-middle.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>Material
+    </td>
   </tr>
 </table>
 
