@@ -61,31 +61,68 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://image.pngaaa.com/160/4144160-middle.png" width="50" height="50" alt="Material" />
+        <img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" width="50" height="50" alt="Material" />
       </a>
       <br>Material
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://qgis.org/en/_static/logo.png" width="50" height="50" alt="QGIS" />
+      </a>
+      <br>QGIS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" width="50" height="50" alt="ArcGIS" />
+      </a>
+      <br>ArcGIS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/Vitruvius21/Vitruvius21/blob/0e3e5e1959fceb253e42c1c52c35d8be5b9e2e8b/Global-Mapper-logo-1.png" width="50" height="50" alt="GlobalMapper" />
+      </a>
+      <br>Mapper
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/186522?s=200&v=4" width="50" height="50" alt="GeoServer" />
+      </a>
+      <br>GeoServer
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="50" height="50" alt="InkScape" />
+      </a>
+      <br>InkScape
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="50" height="50" alt="Illustrator" />
+      </a>
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" width="50" height="50" alt="InDesign" />
+      </a>
+      <br>InDesign
+    </td>
+  </tr>
 </table>
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" height="50" />
-<img style="margin: 10px" src="https://qgis.org/en/_static/logo.png" alt="QGIS" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" alt="ArcGIS" height="50" />
-<img style="margin: 10px" src="https://github.com/Vitruvius21/Vitruvius21/blob/0e3e5e1959fceb253e42c1c52c35d8be5b9e2e8b/Global-Mapper-logo-1.png" alt="Global Mapper" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/186522?s=200&v=4" alt="GeoServer" height="50" />
-<img style="margin: 10px" src="https://media.inkscape.org/static/images/inkscape-logo.svg" alt="InkScape" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" height="50" /> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
-</div>
 
 ## Statistics
 
