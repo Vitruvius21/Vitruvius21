@@ -131,7 +131,7 @@
 <img width="49.5%" alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
 </div>
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitruvius21&theme=react-dark&line=fa8b00&point=dadada&color=959595)](https://github.com/Vitruvius21)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitruvius21&theme=react-dark&line=fa8b00&point=dadada&color=959595&area=true&area_color=fa8b00)](https://github.com/Vitruvius21)
 
 <!-- 
 <div style="display:flex">
