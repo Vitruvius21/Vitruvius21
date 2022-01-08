@@ -2,7 +2,7 @@
 
 ## Hi there 👋, welcome on my GitHub!
 
-#### I am Giorgi Balakhadze, Web Developer and GIS Specialist.
+#### I am Giorgi Balakhadze, Web Developer and GIS Technician.
 
 - 🌱 Currently, I'm actively deepening my knowledge in Front End Web Development (Markup, JS, TS & Angular).
 - 📫 How to reach me: balakhadze.dev@gmail.com
