@@ -2,7 +2,7 @@
 
 ## Hi there 👋, welcome on my GitHub!
 
-- 🌱 Currently, I'm actively deepening my knowledge in Front End Web Development (Markup, JS, TS & Angular).
+- 🌱 Currently, I'm actively deepening my knowledge in Front End Web Development (HTML/CSS, JS, TS & Angular).
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
 ## Skills  
