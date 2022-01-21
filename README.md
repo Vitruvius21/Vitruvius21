@@ -80,19 +80,19 @@
   </tr> -->
   <tr>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://qgis.org/en/site/">
         <img src="https://qgis.org/en/_static/logo.png" width="50" height="50" alt="QGIS" />
       </a>
       <br>QGIS
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" width="50" height="50" alt="ArcGIS" />
       </a>
       <br>ArcGIS
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://www.bluemarblegeo.com/global-mapper">
         <img src="https://github.com/Vitruvius21/Vitruvius21/blob/0e3e5e1959fceb253e42c1c52c35d8be5b9e2e8b/Global-Mapper-logo-1.png" width="50" height="50" alt="GlobalMapper" />
       </a>
       <br>Mapper
@@ -104,31 +104,31 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="http://geoserver.org/">
         <img src="https://avatars.githubusercontent.com/u/186522?s=200&v=4" width="50" height="50" alt="GeoServer" />
       </a>
       <br>GeoServer
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://inkscape.org/">
         <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="50" height="50" alt="InkScape" />
       </a>
       <br>InkScape
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://www.adobe.com/products/illustrator.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="50" height="50" alt="Illustrator" />
       </a>
       <br>Illustrator
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://www.adobe.com/products/photoshop.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop" />
       </a>
       <br>Photoshop
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://www.adobe.com/products/indesign.html">
         <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" width="50" height="50" alt="InDesign" />
       </a>
       <br>InDesign
