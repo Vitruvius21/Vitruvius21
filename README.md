@@ -52,18 +52,32 @@
       <br>Angular
     </td>
    <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/firebase">
         <img src="https://coollogo.net/wp-content/uploads/2021/02/Firebase-logo.svg" width="50" height="50" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/material-design">
         <img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" width="50" height="50" alt="Material" />
       </a>
       <br>Material
     </td>
   </tr>
+<!--   <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/topics/json">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>JSON
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/topics/eslint">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>ESLint
+    </td>
+  </tr> -->
   <tr>
     <td align="center" width="96">
       <a href="#">
@@ -84,7 +98,7 @@
       <br>Mapper
     </td>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/postgresql">
         <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
