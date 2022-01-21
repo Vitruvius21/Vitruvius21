@@ -10,43 +10,43 @@
 <table align="center" style="border: none">
   <tr>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/git">
         <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git" />
       </a>
       <br>Git
     </td>
    <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/html">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50" alt="HTML" />
       </a>
       <br>HTML
     </td>
    <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/css">
         <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50" height="50" alt="CSS" />
       </a>
       <br>CSS
     </td>
    <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/sass">
         <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
       </a>
       <br>SASS
     </td>
    <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/javascript">
         <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
    <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/typescript">
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
    <td align="center" width="96">
-      <a href="#">
+      <a href="https://github.com/topics/angular">
         <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Angular" />
       </a>
       <br>Angular
