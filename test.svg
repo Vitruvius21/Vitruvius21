@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" height="300" width="300">
+  <defs>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" />
+    </filter>
+    <filter id="blur2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" />
+      <feOffset dx="1.5" dy="3" />
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <path id="motionPath1" fill="none" stroke="#5ab9ea" stroke-width="3" filter="url(#blur2)" d="M191.522 149.992a41.41 131.242 0 01-41.41 131.242 41.41 
+                131.242 0 01-41.41-131.242 41.41 131.242 0 0141.41-131.242 
+                41.41 131.242 0 0141.41 131.242" />
+  <path id="motionPath2" fill="none" stroke="#5ab9ea" stroke-width="3" filter="url(#blur2)" d="M167.726 184.297a38.563 142.958 62.822 01-144.788 30.992 38.563 
+                142.958 62.822 01109.56-99.603 38.563 142.958 62.822 01144.788-30.991 38.563 
+                142.958 62.822 01-109.56 99.602" />
+  <path id="motionPath3" fill="none" stroke="#5ab9ea" stroke-width="3" filter="url(#blur2)" d="M132.498 184.297a38.563 142.958-62.822 00144.788 30.992 38.563 142.958-62.822 
+                00-109.56-99.602A38.563 142.958-62.822 0022.938 84.695
+                a38.563 142.958-62.822 00109.56 99.602" />
+  <circle id="circle1" cx="0" cy="0" r="11.045" fill="tomato" filter="url(#blur1)" />
+  <circle id="circle2" cx="0" cy="0" r="11.045" fill="tomato" filter="url(#blur1)" />
+  <circle id="circle3" cy="0" cx="0" r="11.045" fill="tomato" filter="url(#blur1)" />
+  <circle r="14.042" cy="150.104" cx="149.891" fill="tomato" filter="url(#blur2)" />
+  <animateMotion xlink:href="#circle1" dur="2s" begin="0s" fill="freeze" repeatCount="indefinite">
+    <mpath xlink:href="#motionPath1" />
+  </animateMotion>
+  <animateMotion xlink:href="#circle2" dur="1.9s" begin="0s" fill="freeze" repeatCount="indefinite">
+    <mpath xlink:href="#motionPath2" />
+  </animateMotion>
+  <animateMotion xlink:href="#circle3" dur="1.8s" begin="0s" fill="freeze" repeatCount="indefinite">
+    <mpath xlink:href="#motionPath3" />
+  </animateMotion>
+</svg>
