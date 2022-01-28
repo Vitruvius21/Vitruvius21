@@ -145,7 +145,7 @@
 <div align="center">  
 <img width="44.5%" alt="GitHub Contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitruvius21&layout=compact&theme=dark&hide_title=true">
 <!-- <img width="44.5%" alt="GitHub Contributions" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vitruvius21&theme=dark"> -->
-<img height="165" src="https://github.com/Vitruvius21/Vitruvius21/blob/master/assets/banner.svg" />
+<img height="165px" src="https://github.com/Vitruvius21/Vitruvius21/blob/master/assets/banner.svg" />
 
 </div>
 
