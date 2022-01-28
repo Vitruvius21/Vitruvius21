@@ -1,6 +1,6 @@
 ![Follow](https://img.shields.io/github/followers/Vitruvius21?label=Follow&style=social) <img src="https://komarev.com/ghpvc/?username=vitruvius21&label=Profile%20views&color=0e75b6&style=flat" alt="vitruvius21" />
 
-## Hi there 👋, welcome on my GitHub!
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, welcome on my GitHub!
 
 - 🌱 Currently, I'm actively deepening my knowledge in Front End Web Development (HTML/CSS, JS, TS & Angular).
 - 📫 How to reach me: balakhadze.dev@gmail.com
