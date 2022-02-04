@@ -139,13 +139,13 @@
 ## Statistics
 
 <div align="center">  
-<img width="44.5%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=fa8b00">
-<img width="44.5%" alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
+<img width="49.5%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&count_private=true&show_icons=true&include_all_commits=true&theme=dark&icon_color=fa8b00">
+<img width="49.5%" alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
 </div>
 <div align="center">  
-<img width="44.5%" alt="GitHub GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitruvius21&layout=compact&theme=dark&hide_title=true">
+<img width="49.5%" alt="GitHub GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitruvius21&layout=compact&theme=dark&hide_title=true">
 <!-- <img width="44.5%" alt="GitHub Contributions" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vitruvius21&theme=dark"> -->
-<img width="auto" height="145.2px" src="https://github.com/Vitruvius21/Vitruvius21/blob/master/assets/bannerv2.svg" />
+<img width="44.5%" height="145.2px" src="https://github.com/Vitruvius21/Vitruvius21/blob/master/assets/bannerv2.svg" />
 </div>
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitruvius21&theme=react-dark&line=fa8b00&point=dadada&color=959595&area=true&area_color=fa8b00)](https://github.com/Vitruvius21)
