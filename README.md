@@ -5,79 +5,9 @@
 - 🌱 Currently, I'm actively deepening my knowledge in Front End Web Development (HTML/CSS, JS, TS & Angular).
 - 📫 How to reach me: balakhadze.dev@gmail.com
 
-## Skills  
+## Skills
 
 <table align="center" style="border: none">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/topics/git">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/html">
-        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/css">
-        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50" height="50" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/sass">
-        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
-      </a>
-      <br>SASS
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/javascript">
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/typescript">
-        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/angular">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/firebase">
-        <img src="https://coollogo.net/wp-content/uploads/2021/02/Firebase-logo.svg" width="50" height="50" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/topics/material-design">
-        <img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" width="50" height="50" alt="Material" />
-      </a>
-      <br>Material
-    </td>
-  </tr>
-<!--   <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/topics/json">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" width="50" height="50" alt="Material" />
-      </a>
-      <br>JSON
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/topics/eslint">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="50" height="50" alt="Material" />
-      </a>
-      <br>ESLint
-    </td>
-  </tr> -->
   <tr>
     <td align="center" width="96">
       <a href="https://qgis.org/en/site/">
@@ -134,6 +64,131 @@
       <br>InDesign
     </td>
   </tr>
+  <!-- ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/topics/git">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/topics/html">
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/topics/css">
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50" height="50" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/topics/sass">
+        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
+      </a>
+      <br>SASS
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/topics/javascript">
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/topics/typescript">
+        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/topics/angular">
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/topics/firebase">
+        <img src="https://coollogo.net/wp-content/uploads/2021/02/Firebase-logo.svg" width="50" height="50" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/topics/material-design">
+        <img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" width="50" height="50" alt="Material" />
+      </a>
+      <br>Material
+    </td>
+  </tr>
+  <tr>
+    <!-- <td align="center" width="96">
+      <a href="https://github.com/topics/json">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>JSON
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/topics/eslint">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>ESLint
+    </td> -->
+    <td align="center" width="96">
+      <a href="https://github.com/topics/jquery">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png" width="50" height="50" alt="jQuery" />
+      </a>
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+  </tr>
 </table>
 
 ## Statistics
@@ -150,16 +205,16 @@
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Vitruvius21&theme=react-dark&line=fa8b00&point=dadada&color=959595&area=true&area_color=fa8b00)](https://github.com/Vitruvius21)
 
-<!-- 
+<!--
 <div style="display:flex">
  <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitruvius21&theme=dark" />
-</div> 
+</div>
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vitruvius21&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
 </div>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitruvius21&theme=dark">
 </div>
-</div> 
+</div>
 -->
