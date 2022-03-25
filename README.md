@@ -51,6 +51,9 @@
       </a>
       <br>Illustrator
     </td>
+  </tr>
+  <!-- ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <tr>
     <td align="center" width="96">
       <a href="https://www.adobe.com/products/photoshop.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop" />
@@ -63,9 +66,6 @@
       </a>
       <br>InDesign
     </td>
-  </tr>
-  <!-- ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
-  <tr>
     <td align="center" width="96">
       <a href="https://github.com/topics/git">
         <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git" />
@@ -96,6 +96,21 @@
       </a>
       <br>JavaScript
     </td>
+  </tr>
+  <!-- ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <tr>
+    <!-- <td align="center" width="96">
+      <a href="https://github.com/topics/json">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>JSON
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/topics/eslint">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>ESLint
+    </td> -->
    <td align="center" width="96">
       <a href="https://github.com/topics/typescript">
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="TypeScript" />
@@ -120,62 +135,11 @@
       </a>
       <br>Material
     </td>
-  </tr>
-  <!-- ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
-  <tr>
-    <!-- <td align="center" width="96">
-      <a href="https://github.com/topics/json">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" width="50" height="50" alt="Material" />
-      </a>
-      <br>JSON
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/topics/eslint">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="50" height="50" alt="Material" />
-      </a>
-      <br>ESLint
-    </td> -->
     <td align="center" width="96">
       <a href="https://github.com/topics/jquery">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png" width="50" height="50" alt="jQuery" />
       </a>
       <br>jQuery
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
-      </a>
-      <br>
     </td>
     <td align="center" width="96">
       <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
