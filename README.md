@@ -125,7 +125,7 @@
     </td>
    <td align="center" width="96">
       <a href="https://github.com/topics/firebase">
-        <img src="https://coollogo.net/wp-content/uploads/2021/02/Firebase-logo.svg" width="50" height="50" alt="Firebase" />
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50" height="50" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
