@@ -25,7 +25,7 @@
       <a href="https://www.bluemarblegeo.com/global-mapper">
         <img src="https://github.com/Vitruvius21/Vitruvius21/blob/0e3e5e1959fceb253e42c1c52c35d8be5b9e2e8b/Global-Mapper-logo-1.png" width="50" height="50" alt="GlobalMapper" />
       </a>
-      <br>Mapper
+      <br>G.Mapper
     </td>
     <td align="center" width="96">
       <a href="https://github.com/topics/postgresql">
