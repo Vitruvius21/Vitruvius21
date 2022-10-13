@@ -143,7 +143,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/topics/jest">
-        <img src="https://nx.dev/documentation/shared/jest-logo.png" width="50" height="50" alt="" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/jest-3629451-3031514.png" width="50" height="50" alt="" />
       </a>
       <br>Jest
     </td>
