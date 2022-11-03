@@ -2,8 +2,8 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> Hi there, welcome on my GitHub!
 
-- 🌱 Currently, I'm actively deepening my knowledge in Front End Web Development (HTML/CSS, JS, TS & Angular).
-- 📫 How to reach me: balakhadze.dev@gmail.com
+- 🌱 Currently, I'm actively using HTML/CSS, JS, TS & Angular to terraform the Mars.
+- 📫 How to reach me (not a fact): balakhadze.dev@gmail.com
 
 ## Skills
 
