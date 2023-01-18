@@ -90,43 +90,31 @@
   </tr>
   <!-- 2nd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
   <tr>
-    <!-- <td align="center" width="96">
-      <a href="https://github.com/topics/json">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" width="50" height="50" alt="Material" />
-      </a>
-      <br>JSON
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/topics/eslint">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="50" height="50" alt="Material" />
-      </a>
-      <br>ESLint
-    </td> -->
     <td align="center" width="96">
       <a href="https://github.com/topics/sass">
         <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
       </a>
       <br>SASS
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://github.com/topics/javascript">
         <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://github.com/topics/typescript">
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://github.com/topics/angular">
         <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Angular" />
       </a>
       <br>Angular
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://github.com/topics/firebase">
         <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50" height="50" alt="Firebase" />
       </a>
@@ -138,9 +126,9 @@
       </a>
       <br>Material
     </td>
-    </tr>
-    <!-- 3rd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
-    <tr>
+  </tr>
+  <!-- 3rd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <tr>
     <td align="center" width="96">
       <a href="https://github.com/topics/jquery">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png" width="50" height="50" alt="jQuery" />
@@ -177,7 +165,24 @@
       </a>
       <br>
     </td>
-    </tr>
+  </tr>
+  <!-- 4th section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <!-- 
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/topics/json">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>JSON
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/topics/eslint">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="50" height="50" alt="Material" />
+      </a>
+      <br>ESLint
+    </td> 
+  </tr> 
+  -->
 </table>
 
 ## Statistics
