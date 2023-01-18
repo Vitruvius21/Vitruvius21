@@ -46,7 +46,7 @@
       <br>InkScape
     </td>
     <td rowspan="4" align="center">
-    <a href="https://app.daily.dev/Vitruvius21"><img src="https://github.com/Vitruvius21/Vitruvius21/blob/master/devcard.svg?r=zc6" width="270" alt="ᚷᛁᛟᚱᚷᛁ ᛒᚨᛚᚨᚲᚻᚨᛞᛉᛖ's Dev Card"/></a>
+    <a href="https://app.daily.dev/Vitruvius21"><img src="https://github.com/Vitruvius21/Vitruvius21/blob/master/devcard.svg?r=zc6" width="300" alt="ᚷᛁᛟᚱᚷᛁ ᛒᚨᛚᚨᚲᚻᚨᛞᛉᛖ's Dev Card"/></a>
     </td>
   </tr>
   <!-- 1st section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
