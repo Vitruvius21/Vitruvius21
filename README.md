@@ -45,19 +45,18 @@
       </a>
       <br>InkScape
     </td>
+    <td rowspan="4" align="center">
+    <a href="https://app.daily.dev/vitruvius21"><img src="https://github.com/Vitruvius21/Vitruvius21/blob/master/devcard.svg?r=zc6" width="225" alt="ᚷᛁᛟᚱᚷᛁ ᛒᚨᛚᚨᚲᚻᚨᛞᛉᛖ's Dev Card"/></a>
+    </td>
+  </tr>
+  <!-- 1st section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <tr>
     <td align="center" width="96">
       <a href="https://www.adobe.com/products/illustrator.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="50" height="50" alt="Illustrator" />
       </a>
       <br>Illustrator
     </td>
-      <td rowspan="3" align="center">
-    <a href="https://app.daily.dev/vitruvius21"><img src="https://github.com/Vitruvius21/Vitruvius21/blob/master/devcard.svg?r=zc6" width="225" alt="ᚷᛁᛟᚱᚷᛁ ᛒᚨᛚᚨᚲᚻᚨᛞᛉᛖ's Dev Card"/></a>
-    </td>
-    
-  </tr>
-  <!-- ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
-  <tr>
     <td align="center" width="96">
       <a href="https://www.adobe.com/products/photoshop.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" height="50" alt="Photoshop" />
@@ -88,20 +87,8 @@
       </a>
       <br>CSS
     </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/sass">
-        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
-      </a>
-      <br>SASS
-    </td>
-   <td align="center" width="96">
-      <a href="https://github.com/topics/javascript">
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
   </tr>
-  <!-- ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <!-- 2nd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
   <tr>
     <!-- <td align="center" width="96">
       <a href="https://github.com/topics/json">
@@ -115,6 +102,18 @@
       </a>
       <br>ESLint
     </td> -->
+    <td align="center" width="96">
+      <a href="https://github.com/topics/sass">
+        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
+      </a>
+      <br>SASS
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/topics/javascript">
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
    <td align="center" width="96">
       <a href="https://github.com/topics/typescript">
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" height="50" alt="TypeScript" />
@@ -133,12 +132,15 @@
       </a>
       <br>Firebase
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="https://github.com/topics/material-design">
         <img src="https://angular.io/generated/images/marketing/concept-icons/material.svg" width="50" height="50" alt="Material" />
       </a>
       <br>Material
     </td>
+    </tr>
+    <!-- 3rd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+    <tr>
     <td align="center" width="96">
       <a href="https://github.com/topics/jquery">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png" width="50" height="50" alt="jQuery" />
@@ -157,16 +159,25 @@
       </a>
       <br>Docker
     </td>
-<!--     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
       </a>
       <br>
-    </td> -->
-      
-  </tr>
-  
-
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
+    </tr>
 </table>
 
 ## Statistics
