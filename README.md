@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/topics/postgresql">
-        <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL" />
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="50" height="50" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
