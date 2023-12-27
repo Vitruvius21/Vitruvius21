@@ -110,7 +110,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/topics/angular">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Angular" />
+        <img src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" width="50" height="50" alt="Angular" />
       </a>
       <br>Angular
     </td>
