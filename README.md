@@ -11,7 +11,7 @@
   <tr style="border: none">
     <td align="center" width="96" style="border: none">
       <a href="https://qgis.org/en/site/">
-        <img src="https://qgis.org/en/_static/logo.png" width="50" height="50" alt="QGIS" />
+        <img src="https://qgis.org/img/logosign.svg" width="50" height="50" alt="QGIS" />
       </a>
       <br>QGIS
     </td>
