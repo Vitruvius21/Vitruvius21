@@ -4,7 +4,7 @@
 
 - 🌱 Currently, I'm actively fusing HTML/CSS, JS, TS & Angular to terraform the Mars.
 
-## Skills
+## Tech Skills
 
 <table align="center" style="border: none">
   <tr style="border: none">
