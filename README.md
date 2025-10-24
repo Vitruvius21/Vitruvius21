@@ -16,7 +16,7 @@
     </td>
     <td align="center" width="96" style="border: none">
       <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" width="50" height="50" alt="ArcGIS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/ArcGIS_globe_%28cropped%29.png" width="50" height="50" alt="ArcGIS" />
       </a>
       <br>ArcGIS
     </td>
