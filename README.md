@@ -63,8 +63,8 @@
       <br>🟡Photoshop
     </td>
   <!-- 2nd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
-  <tr>
-    <td align="center" width="140">
+  <tr>'
+    <td align="center" width="140" height="120">
       <a href="https://www.adobe.com/products/indesign.html">
         <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" width="50" height="50" alt="InDesign" />
       </a>
