@@ -38,18 +38,18 @@
       </a>
       <br>🟠GeoServer
     </td>
+    <td rowspan="5" align="center">
+    <a href="https://app.daily.dev/Vitruvius21"><img src="https://github.com/Vitruvius21/Vitruvius21/blob/master/devcard.svg?r=zc6" width="300" alt="ᚷᛁᛟᚱᚷᛁ ᛒᚨᛚᚨᚲᚻᚨᛞᛉᛖ's Dev Card"/></a>
+    </td>
+  </tr>
+  <!-- 1st section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <tr>
     <td align="center" width="120" style="border: none">
       <a href="https://inkscape.org/">
         <img src="https://media.inkscape.org/static/images/inkscape-logo.svg" width="50" height="50" alt="InkScape" />
       </a>
       <br>🟢InkScape
     </td>
-    <td rowspan="4" align="center">
-    <a href="https://app.daily.dev/Vitruvius21"><img src="https://github.com/Vitruvius21/Vitruvius21/blob/master/devcard.svg?r=zc6" width="300" alt="ᚷᛁᛟᚱᚷᛁ ᛒᚨᛚᚨᚲᚻᚨᛞᛉᛖ's Dev Card"/></a>
-    </td>
-  </tr>
-  <!-- 1st section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
-  <tr>
     <td align="center" width="140" height="120">
       <a href="https://www.adobe.com/products/illustrator.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="50" height="50" alt="Illustrator" />
@@ -74,6 +74,8 @@
       </a>
       <br>🟢Git
     </td>
+  <!-- 2nd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <tr>
    <td align="center" width="96">
       <a href="https://github.com/topics/html">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50" alt="HTML" />
@@ -86,9 +88,6 @@
       </a>
       <br>🟢CSS
     </td>
-  </tr>
-  <!-- 2nd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
-  <tr>
     <td align="center" width="140" height="120">
       <a href="https://github.com/topics/sass">
         <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
@@ -107,7 +106,10 @@
       </a>
       <br>🟢TypeScript
     </td>
-    <td align="center" width="96">
+  </tr>
+  <!-- 3rd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
+  <tr>
+  <td align="center" width="96">
       <a href="https://github.com/topics/angular"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Angular-new-logo-small.svg" width="50" height="50" alt="Angular" />
       </a>
@@ -125,9 +127,6 @@
       </a>
       <br>🟢Material
     </td>
-  </tr>
-  <!-- 3rd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
-  <tr>
     <td align="center" width="140" height="120">
       <a href="https://github.com/topics/jquery">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png" width="50" height="50" alt="jQuery" />
@@ -140,7 +139,9 @@
       </a>
       <br>🟢Jest
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+    <td align="center" width="140" height="120">
       <a href="https://github.com/topics/docker">
         <img src="https://raw.githubusercontent.com/Vitruvius21/Vitruvius21/master/assets/docker.svg" width="50" height="50" alt="docker" />
       </a>
@@ -152,6 +153,12 @@
       </a>
       <br>WebContainer
     </td> -->
+    <td align="center" width="96">
+      <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
+      </a>
+      <br>
+    </td>
     <td align="center" width="96">
       <a href="https://www.youtube.com/watch?v=yagTi6x-ILY">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Blank5x5.svg" width="50" height="50" alt="" />
