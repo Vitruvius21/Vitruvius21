@@ -108,8 +108,8 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/topics/angular">
-        <img src="https://svgmix.com/uploads/65501a-angular.svg" width="50" height="50" alt="Angular" />
+      <a href="https://github.com/topics/angular"> 
+        <img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" width="50" height="50" alt="Angular" />
       </a>
       <br>Angular
     </td>
