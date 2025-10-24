@@ -8,7 +8,7 @@
 
 <table align="center" style="border: none">
   <tr style="border: none">
-    <td align="center" width="140" height="120" style="border: none">
+    <td align="center" width="140" height="100" style="border: none">
       <a href="https://qgis.org/en/site/">
         <img src="https://qgis.org/img/logosign.svg" width="50" height="50" alt="QGIS" />
       </a>
@@ -50,7 +50,7 @@
       </a>
       <br>🟢InkScape
     </td>
-    <td align="center" width="140" height="120">
+    <td align="center" width="140" height="100">
       <a href="https://www.adobe.com/products/illustrator.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="50" height="50" alt="Illustrator" />
       </a>
@@ -64,7 +64,7 @@
     </td>
   <!-- 2nd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
   <tr>'
-    <td align="center" width="140" height="120">
+    <td align="center" width="140" height="100">
       <a href="https://www.adobe.com/products/indesign.html">
         <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" width="50" height="50" alt="InDesign" />
       </a>
@@ -91,7 +91,7 @@
   </tr>
   <!-- 3rd section end ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲ ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲-->
   <tr>
-    <td align="center" width="140" height="120">
+    <td align="center" width="140" height="100">
       <a href="https://github.com/topics/sass">
         <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="50" height="50" alt="SASS" />
       </a>
@@ -129,7 +129,7 @@
       </a>
       <br>🟢Material
     </td>
-    <td align="center" width="140" height="120">
+    <td align="center" width="140" height="100">
       <a href="https://github.com/topics/jquery">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png" width="50" height="50" alt="jQuery" />
       </a>
@@ -143,7 +143,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="140" height="120">
+    <td align="center" width="140" height="100">
       <a href="https://github.com/topics/docker">
         <img src="https://raw.githubusercontent.com/Vitruvius21/Vitruvius21/master/assets/docker.svg" width="50" height="50" alt="docker" />
       </a>
