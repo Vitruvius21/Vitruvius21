@@ -2,7 +2,8 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> Hi there, welcome on my GitHub!
 
-- 🌱 Currently, I'm actively fusing HTML/CSS, JS, TS & Angular to terraform the Mars.
+- 👑 Developer of the Interns, Seniors, QA Testers, Bug Creators, Coffee-Drinkers, Stack-Overflow Copy-Pasters, and of all Remote Workers and Desk Sleepers.
+- 🌱 Terraforming Mars with HTML/CSS, JS, TS & Angular. Elon, if you're reading this, give me a budget.
 
 ## Tech Skills
 
